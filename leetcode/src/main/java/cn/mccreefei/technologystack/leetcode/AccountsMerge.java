@@ -3,7 +3,7 @@ package cn.mccreefei.technologystack.leetcode;
 import java.util.*;
 
 /**
- * @author MccreeFei
+ * @author hahaha
  * @create 2020-01-10 下午3:46
  * @refer <href>https://leetcode.com/problems/accounts-merge/</href>
  * @idea 基于每个email的前后邻居构造图 dfs搜索出所有同一个人的email,排序,插入所属人
