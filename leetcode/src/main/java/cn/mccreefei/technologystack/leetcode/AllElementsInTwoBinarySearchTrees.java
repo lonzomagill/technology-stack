@@ -8,6 +8,7 @@ import java.util.List;
  * @create 2020-01-20 下午4:06
  * @refer <href>https://leetcode.com/problems/all-elements-in-two-binary-search-trees/</href>
  * @idea 中序遍历 然后merge
+ * some
  */
 public class AllElementsInTwoBinarySearchTrees {
     public class TreeNode {

@@ -8,6 +8,7 @@ import java.util.Map;
  * @create 2019-06-24 上午10:43
  * @refer <href>https://leetcode.com/problems/contains-duplicate-ii/</href>
  * @idea map保存数字->索引的映射
+ * commit
  */
 public class ContainDuplicateII {
     /**

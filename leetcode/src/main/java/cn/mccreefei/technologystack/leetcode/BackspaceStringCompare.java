@@ -5,6 +5,7 @@ package cn.mccreefei.technologystack.leetcode;
  * @create 2020-04-09 下午3:34
  * @refer <href>https://leetcode.com/problems/backspace-string-compare/</href>
  * @idea 从后向前对比 记录'#'个数, '#'>0时删减字符
+ * msg
  */
 public class BackspaceStringCompare {
     public boolean backspaceCompare(String S, String T) {
