@@ -25,6 +25,7 @@ public class AdvantageShuffle {
             int[] poll = priorityQueue.poll();
             result[poll[1]] = A[right] > poll[0] ? A[right--] : A[left++];
         }
+        String a=  "123";
         return result;
     }
 

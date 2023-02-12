@@ -32,6 +32,7 @@ public class BinaryTreePruning {
         if (rightNode == null) {
             root.right = null;
         }
+        System.out.println(root.val);
         if (root.val == 1 || root.left != null || root.right != null) {
             return root;
         }

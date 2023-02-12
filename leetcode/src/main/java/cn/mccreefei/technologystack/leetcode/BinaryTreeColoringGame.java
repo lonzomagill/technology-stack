@@ -19,6 +19,7 @@ public class BinaryTreeColoringGame {
 
 
     public boolean btreeGameWinningMove(TreeNode root, int n, int x) {
+        System.out.println("n = " + n);
         TreeNode xNode = findX(root, x);
         int leftCount = count(xNode.left);
         int rightCount = count(xNode.right);
